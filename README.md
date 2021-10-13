@@ -1,1 +1,1 @@
-# scannerApp
+# Scanner App
